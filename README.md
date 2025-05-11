@@ -23,15 +23,205 @@ Here are some ideas to get you started:
     </div>  
 <p align="center"><a href="">Portfolio↗️</a></p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+## 🖥️ My tech stacks :
+
+<p align="right">
+  <h3><i>Hosting providers:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ipc-logo.png?raw=true" width="48" height="48" alt="Infomaniak Public Cloud" />
+      </a>
+      <br>IPC
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/netlify-logo.png?raw=true" width="48" height="48" alt="Netlify" />
+      </a>
+      <br>Netlify
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/openstack-logo.png?raw=true" width="48" height="48" alt="OpenStack" />
+      </a>
+      <br>OpenStack
+    </td>
+  </tr>
+</table>
+<p>
+  <h3><i>Languages:</i></h3>
+  <table>
+  <tr border: none;>
+   <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/bash-logo.png?raw=true" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/markdown-logo.png?raw=true" width="48" height="48" alt="Markdown" />
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/python-logo.png?raw=true" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/yaml-logo.png?raw=true" width="48" height="48" alt="YAML" />
+      </a>
+      <br>YAML
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Operating Systems:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/debian-logo.png?raw=true" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/apple-logo.png?raw=true" width="48" height="48" alt="macOS" />
+      </a>
+      <br>macOS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/redhat-logo.png?raw=true" width="48" height="48" alt="Red Hat" />
+      </a>
+      <br>Red Hat
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ubuntu-logo.png?raw=true" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows
+    </td>
+  </tr>
+</table>
+</p>
+<p>
+  <h3><i>Other tools:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/github-logo.png?raw=true" width="48" height="48" alt="GitHub Action" />
+      </a>
+      <br>Action
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ansible-logo.png?raw=true" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/ceph-logo.png?raw=true" width="48" height="48" alt="Ceph" />
+      </a>
+      <br>Ceph
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/gitlab-logo.png?raw=true" width="48" height="48" alt="GitLab CI/CD" />
+      </a>
+      <br>CI/CD
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/cloud-init-logo.png?raw=true" width="48" height="48" alt="Cloud-Init" />
+      </a>
+      <br>Cloud-Init
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/docker-logo.png?raw=true" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/git-logo.png?raw=true" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>	  
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/grafana-logo.png?raw=true" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/influxdb-logo.png?raw=true" width="48" height="48" alt="InfluxDB" />
+      </a>
+      <br>InfluxDB
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/terraform-logo.png?raw=true" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/vault-logo.png?raw=true" width="48" height="48" alt="Vault" />
+      </a>
+      <br>Vault
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://github.com/linitio/static-content/blob/main/img/logo/visual-studio-logo.png?raw=true" width="48" height="48" alt="Visual Studio Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+</p>
+
 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arjuncvinod&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
  
 ---
 Last Edited on: 04/07/2023

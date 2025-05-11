@@ -28,19 +28,6 @@ Here are some ideas to get you started:
 
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
-
- 🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
-
- 🌱 I’m currently learning **React.js**
-
- 💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
-
- 📫 Reach out to me: **arjuncvinod7@gmail.com**
-
- ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
-
- ⚡ Fun fact: **My first line of code was not "Hello World!"**
-
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>

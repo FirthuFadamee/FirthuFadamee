@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <br>Java
     </td>
     <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="48" height="48" alt="JavaScript" />
+      <img src="[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) " width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="110">

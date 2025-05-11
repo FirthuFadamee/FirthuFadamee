@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       <br>C#
     </td>
     <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
+      <img src="(https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="110">

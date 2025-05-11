@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 💻 Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp,java,js,php,sql,css,html" />
+  <img src="https://skillicons.dev/icons?i=dotnet,java,js,php,html,css" />
 </p>
 
 ### 🖥️ Sistemas Operativos

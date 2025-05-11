@@ -23,69 +23,26 @@ Here are some ideas to get you started:
     </div>  
 <p align="center"><a href="">Portfolio↗️</a></p>
 
-## 🖥️ My tech stacks :
+## 🖥️ My Tech Stacks
 
-### <i>Languages:</i>
+### 💻 Lenguajes
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968333.png" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="48" height="48" alt="SQL" />
-      <br>SQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.com/linitio/static-content/blob/main/img/logo/css3-logo.png?raw=true" width="48" height="48" alt="CSS 3" />
-      <br>CSS 3
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.com/linitio/static-content/blob/main/img/logo/html5-logo.png?raw=true" width="48" height="48" alt="HTML 5" />
-      <br>HTML 5
-    </td>
-  </tr>
-</table>
-
-### <i>Operating Systems:</i>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://github.com/linitio/static-content/blob/main/img/logo/windows-logo.png?raw=true" width="48" height="48" alt="Windows" />
-      <br>Windows
-    </td>
-  </tr>
-</table>
-
-### <i>Other tools:</i>
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://code.visualstudio.com/assets/favicon.ico" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="110">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/NetBeans_Logo.svg" width="48" height="48" alt="NetBeans" />
-      <br>NetBeans
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=csharp,java,js,php,sql,css,html" />
 </p>
+
+### 🖥️ Sistemas Operativos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" />
+</p>
+
+### 🔧 Other Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,netbeans" />
+</p>
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
